@@ -1,0 +1,11 @@
+# Backend
+backend/__pycache__/
+backend/.env
+backend/fallback_db.json
+backend/test_chat.py
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/npm-debug.log*

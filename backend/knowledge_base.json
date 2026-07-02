@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "category": "Home Energy & Efficiency",
+    "main_question": "How can I reduce my home energy consumption?",
+    "alternate_phrasings": [
+      "How can I save electricity at home?",
+      "What are ways to reduce household energy use?",
+      "How do I make my home more energy-efficient?"
+    ],
+    "answer": "Switch to LED lighting (uses 75% less energy than incandescent bulbs), upgrade to energy-efficient appliances (look for BEE 5-star ratings in India), insulate your walls and roof to reduce heating/cooling loads, use smart thermostats, and unplug devices on standby. These changes can reduce household energy use by 20–30%.",
+    "source": "IEA Energy Efficiency Report 2023"
+  },
+  {
+    "id": 2,
+    "category": "Home Energy & Efficiency",
+    "main_question": "What is the most energy-consuming appliance in a typical home?",
+    "alternate_phrasings": [
+      "Which appliance uses the most electricity at home?",
+      "What consumes the most energy in a house?",
+      "Which household appliance has the highest power consumption?"
+    ],
+    "answer": "Air conditioning and space heating together account for nearly 50% of household energy use globally. In India, ACs, geysers, and refrigerators are the top consumers. Choosing inverter ACs, solar water heaters, and energy-efficient refrigerators delivers the highest savings.",
+    "source": "IEA, Tracking Buildings 2023"
+  },
+  {
+    "id": 3,
+    "category": "Home Energy & Efficiency",
+    "main_question": "How do solar panels work and are they worth installing at home?",
+    "alternate_phrasings": [
+      "How do solar panels generate electricity?",
+      "Are rooftop solar panels worth installing?",
+      "Should I install solar panels at home?"
+    ],
+    "answer": "Solar panels convert sunlight into electricity via photovoltaic (PV) cells. A 3kW rooftop system in India generates ~4,000 units/year, saving ₹40,000–₹50,000 annually on electricity bills. With PM Surya Ghar subsidies (up to ₹78,000), payback periods are now 4–6 years. They are generally worth it in sunny regions.",
+    "source": "MNRE Rooftop Solar Programme 2024; IEA Solar PV"
+  },
+  {
+    "id": 4,
+    "category": "Home Energy & Efficiency",
+    "main_question": "What is a smart meter and how does it help save energy?",
+    "alternate_phrasings": [
+      "What is a smart electricity meter?",
+      "How does a smart meter reduce electricity usage?",
+      "Why should I use a smart meter?"
+    ],
+    "answer": "Smart meters digitally track real-time electricity usage and send data directly to utilities, eliminating manual readings. They help consumers identify energy waste patterns, shift usage to off-peak hours (cheaper tariffs), and reduce overall consumption by 3–5% through awareness alone.",
+    "source": "IEA Digitalization and Energy Report"
+  },
+  {
+    "id": 5,
+    "category": "Home Energy & Efficiency",
+    "main_question": "How can I make my home more energy-efficient without major renovations?",
+    "alternate_phrasings": [
+      "How can I improve energy efficiency cheaply?",
+      "How do I save electricity without renovating?",
+      "What are low-cost ways to reduce energy bills?"
+    ],
+    "answer": "Low-cost actions include sealing gaps around windows and doors, using ceiling fans instead of AC where possible, washing clothes in cold water, using pressure cookers to save cooking energy, and replacing old bulbs with LEDs. These collectively can cut energy bills by 15–25% with minimal upfront cost.",
+    "source": "IEA Energy Efficiency 2023; BEE India"
+  },
+  {
+    "id": 6,
+    "category": "Carbon Footprint & Lifestyle",
+    "main_question": "What is a carbon footprint?",
+    "alternate_phrasings": [
+      "What does carbon footprint mean?",
+      "How do I calculate my carbon footprint?",
+      "Why is my carbon footprint important?"
+    ],
+    "answer": "A carbon footprint is the total amount of greenhouse gases (primarily CO₂ and methane) emitted directly or indirectly by an individual, organization, or product, expressed in tonnes of CO₂ equivalent (tCO₂e). The global average is ~4 tonnes per person per year; India's average is ~1.9 tonnes, while the US average is ~14 tonnes.",
+    "source": "Our World in Data; Global Carbon Project 2023"
+  },
+  {
+    "id": 7,
+    "category": "Carbon Footprint & Lifestyle",
+    "main_question": "What dietary changes have the biggest impact on reducing carbon emissions?",
+    "alternate_phrasings": [
+      "Which foods have the highest carbon emissions?",
+      "How can my diet reduce climate impact?",
+      "Does eating less meat reduce emissions?"
+    ],
+    "answer": "Reducing beef and lamb consumption has the largest single dietary impact — beef produces ~60kg CO₂e per kg of protein, compared to ~6kg for chicken and ~0.4kg for legumes. Shifting to a plant-rich diet can reduce food-related emissions by up to 50%. Cutting food waste also matters: ~8% of global emissions come from wasted food.",
+    "source": "IPCC AR6 Chapter 5; Poore & Nemecek, Science 2018"
+  },
+  {
+    "id": 8,
+    "category": "Carbon Footprint & Lifestyle",
+    "main_question": "How does air travel affect my carbon footprint?",
+    "alternate_phrasings": [
+      "How much pollution does flying create?",
+      "Does air travel increase carbon emissions?",
+      "How does flying affect climate change?"
+    ],
+    "answer": "A round-trip economy flight from Mumbai to London emits approximately 1.5–2 tonnes of CO₂ per passenger — nearly equal to India's average annual per-person footprint. Business class triples this due to space per seat. Avoiding one long-haul flight per year is one of the highest-impact individual climate actions.",
+    "source": "ICAO Carbon Emissions Calculator; Our World in Data"
+  },
+  {
+    "id": 9,
+    "category": "Carbon Footprint & Lifestyle",
+    "main_question": "Is it better to buy an electric vehicle or keep my existing petrol car?",
+    "alternate_phrasings": [
+      "Are electric vehicles better for the environment?",
+      "Should I buy an EV or keep my petrol car?",
+      "Do EVs produce less carbon than petrol cars?"
+    ],
+    "answer": "Over its full lifecycle, an EV emits 50–70% less CO₂ than a petrol car even accounting for battery manufacturing, and this gap widens as electricity grids get cleaner. In India, with the grid currently ~40% renewable, EVs are already significantly cleaner. If your car is old and high-emission, switching to an EV is beneficial; if it's relatively new, using it longer and maintaining it well first reduces manufacturing emissions.",
+    "source": "IEA Global EV Outlook 2024; IPCC AR6 Transport Chapter"
+  },
+  {
+    "id": 10,
+    "category": "Carbon Footprint & Lifestyle",
+    "main_question": "How much CO₂ does streaming video or using social media generate?",
+    "alternate_phrasings": [
+      "Does streaming videos cause carbon emissions?",
+      "Is social media bad for the environment?",
+      "How much CO₂ does online streaming produce?"
+    ],
+    "answer": "Streaming video generates roughly 36g of CO₂ per hour (equivalent to boiling a kettle), which is much lower than previously estimated. Data centres have become far more efficient. Overall, the global ICT sector accounts for ~2–4% of global emissions — significant, but not a priority individual action compared to diet, transport, or home energy.",
+    "source": "Carbon Trust, IEA Data Centres Report 2023"
+  },
+  {
+    "id": 11,
+    "category": "Climate Science Basics",
+    "main_question": "What is the difference between climate and weather?",
+    "alternate_phrasings": [
+      "How is climate different from weather?",
+      "What's the difference between weather and climate?",
+      "What does climate mean?"
+    ],
+    "answer": "Weather refers to short-term atmospheric conditions (temperature, rain, wind) at a specific place and time. Climate is the long-term average of weather patterns over 30+ years in a region. Climate change refers to shifts in these long-term patterns — such as rising average temperatures, changing rainfall patterns, and more frequent extreme weather events.",
+    "source": "NASA Climate; IPCC AR6 2021"
+  },
+  {
+    "id": 12,
+    "category": "Climate Science Basics",
+    "main_question": "What is the greenhouse effect and why does it matter?",
+    "alternate_phrasings": [
+      "How does the greenhouse effect work?",
+      "Why is the greenhouse effect important?",
+      "What causes the greenhouse effect?"
+    ],
+    "answer": "The greenhouse effect is a natural process where gases like CO₂, methane, and water vapour trap heat from the sun in Earth's atmosphere, keeping the planet warm enough for life (~15°C average). Human activities have increased greenhouse gas concentrations by 50% since pre-industrial times, amplifying this effect and causing global average temperatures to rise by ~1.1°C — driving climate change.",
+    "source": "IPCC AR6 WG1 Summary for Policymakers 2021"
+  },
+  {
+    "id": 13,
+    "category": "Climate Science Basics",
+    "main_question": "What is the 1.5°C target and why is it important?",
+    "alternate_phrasings": [
+      "What is the Paris Agreement's 1.5°C goal?",
+      "Why should warming stay below 1.5°C?",
+      "Why is the 1.5°C target important?"
+    ],
+    "answer": "The 1.5°C target, established under the Paris Agreement (2015), aims to limit global average temperature rise to 1.5°C above pre-industrial levels. Beyond this threshold, risks increase dramatically: coral reef die-offs, more intense extreme weather, sea-level rise affecting hundreds of millions, and ecosystem collapse. In 2024, global temperatures temporarily exceeded 1.5°C for the first time.",
+    "source": "IPCC Special Report on 1.5°C; UN SDG 13 Report 2026"
+  },
+  {
+    "id": 14,
+    "category": "Climate Science Basics",
+    "main_question": "What is climate tipping point?",
+    "alternate_phrasings": [
+      "What are climate tipping points?",
+      "Can climate change become irreversible?",
+      "Why are climate tipping points dangerous?"
+    ],
+    "answer": "A climate tipping point is a threshold beyond which a system undergoes irreversible change. Key tipping points include the collapse of the West Antarctic Ice Sheet (raising sea levels 3–5m), Amazon rainforest dieback, and permafrost thaw releasing stored methane. Scientists warn that crossing multiple tipping points could trigger cascading effects making 2°C warming unstoppable even with emissions cuts.",
+    "source": "IPCC AR6; Lenton et al., Science 2023"
+  },
+  {
+    "id": 15,
+    "category": "Circular Economy & Waste",
+    "main_question": "What is a circular economy?",
+    "alternate_phrasings": [
+      "What does circular economy mean?",
+      "How does a circular economy reduce waste?",
+      "Why is circular economy important?"
+    ],
+    "answer": "A circular economy is an economic system designed to eliminate waste by keeping materials in use as long as possible through reuse, repair, remanufacturing, and recycling — in contrast to the traditional linear 'take-make-dispose' model. It aims to decouple economic growth from resource consumption. The Ellen MacArthur Foundation estimates a circular economy could reduce global CO₂ emissions by 45% by 2030.",
+    "source": "Ellen MacArthur Foundation; UNEP Circular Economy Report"
+  },
+  {
+    "id": 16,
+    "category": "Circular Economy & Waste",
+    "main_question": "How does plastic pollution relate to climate change?",
+    "alternate_phrasings": [
+      "Why is plastic bad for the environment?",
+      "Does plastic increase greenhouse gases?",
+      "How does plastic affect climate change?"
+    ],
+    "answer": "Plastic is made from fossil fuels — its production generates ~1.8 billion tonnes of CO₂ annually (~3.4% of global emissions). When plastic waste is burned (common in India), it releases toxic gases and more CO₂. Reducing single-use plastic, improving waste segregation, and recycling plastic reduces both pollution and climate impact.",
+    "source": "UNEP Plastic Pollution Report 2023; CIEL"
+  },
+  {
+    "id": 17,
+    "category": "Circular Economy & Waste",
+    "main_question": "What is the climate impact of food waste?",
+    "alternate_phrasings": [
+      "Why is food waste bad for the climate?",
+      "How does wasting food affect the environment?",
+      "Can reducing food waste fight climate change?"
+    ],
+    "answer": "About one-third of all food produced globally is wasted, generating ~8–10% of global greenhouse gas emissions — more than the entire aviation industry. In India, post-harvest losses alone are estimated at ₹90,000 crore annually. Reducing food waste is one of Project Drawdown's top climate solutions, preventing 90+ gigatonnes of CO₂e by 2050.",
+    "source": "UNEP Food Waste Index 2024; Project Drawdown"
+  },
+  {
+    "id": 18,
+    "category": "Circular Economy & Waste",
+    "main_question": "How can I practice zero waste at home?",
+    "alternate_phrasings": [
+      "How can I reduce waste at home?",
+      "What are the 5Rs of zero waste?",
+      "How do I start a zero-waste lifestyle?"
+    ],
+    "answer": "Start with the 5R hierarchy: Refuse (say no to unnecessary items), Reduce (buy less), Reuse (opt for reusable bags, bottles, containers), Recycle (segregate wet/dry/hazardous waste), and Rot (compost organic waste). Composting kitchen waste alone diverts ~50% of household waste from landfills and reduces methane emissions.",
+    "source": "UNEP; Solid Waste Management Rules, India 2016"
+  },
+  {
+    "id": 19,
+    "category": "Clean Energy (SDG 7)",
+    "main_question": "What is renewable energy and what are the main types?",
+    "alternate_phrasings": [
+      "What is clean energy?",
+      "Why is renewable energy important?",
+      "What are the different types of renewable energy?"
+    ],
+    "answer": "Renewable energy comes from naturally replenishing sources that produce little to no greenhouse gas emissions. The main types are: Solar (photovoltaic and thermal), Wind (onshore and offshore), Hydropower, Biomass, Geothermal, and Tidal/Wave energy. Solar and wind are the fastest-growing and cheapest, with costs falling 90% and 70% respectively over the last decade.",
+    "source": "IRENA Renewable Power Generation Costs 2023; IEA"
+  },
+  {
+    "id": 20,
+    "category": "Clean Energy (SDG 7)",
+    "main_question": "How is India performing on clean energy goals?",
+    "alternate_phrasings": [
+      "What are India's clean energy goals?",
+      "How is India doing in renewable energy?",
+      "How much renewable energy does India produce?"
+    ],
+    "answer": "India has set a target of 500 GW of non-fossil fuel capacity by 2030 and net zero by 2070. As of 2024, India's installed renewable capacity exceeded 190 GW, with solar alone at ~85 GW. India is the world's 3rd largest solar market. However, coal still provides ~70% of electricity, making the energy transition a critical challenge.",
+    "source": "MNRE Annual Report 2024; IEA India Energy Outlook"
+  },
+  {
+    "id": 21,
+    "category": "Clean Energy (SDG 7)",
+    "main_question": "What is energy poverty and how does it connect to climate action?",
+    "alternate_phrasings": [
+      "What is energy poverty?",
+      "Why is energy access important?",
+      "How is energy poverty linked to climate change?"
+    ],
+    "answer": "Energy poverty means lacking access to affordable, reliable, and clean energy — affecting ~675 million people globally who lack electricity, mostly in Sub-Saharan Africa and South Asia. Climate action must address this equitably: decentralised solar microgrids offer a clean pathway to energy access without building fossil fuel infrastructure, directly serving both SDG 7 and SDG 13.",
+    "source": "IEA World Energy Outlook 2023; IRENA"
+  },
+  {
+    "id": 22,
+    "category": "Clean Energy (SDG 7)",
+    "main_question": "What is green hydrogen and why is it called a fuel of the future?",
+    "alternate_phrasings": [
+      "What is green hydrogen?",
+      "How is green hydrogen produced?",
+      "Why is green hydrogen called the fuel of the future?"
+    ],
+    "answer": "Green hydrogen is produced by splitting water (electrolysis) using renewable electricity, emitting zero CO₂. It can decarbonise hard-to-electrify sectors like steel, cement, shipping, and aviation. India's National Green Hydrogen Mission targets 5 million tonnes of production by 2030. Currently expensive (₹300–400/kg), costs are expected to fall to ₹150/kg by 2030.",
+    "source": "IEA Global Hydrogen Review 2023; MNRE Green Hydrogen Mission"
+  },
+  {
+    "id": 23,
+    "category": "Climate Policy & Global Action",
+    "main_question": "What is the Paris Agreement?",
+    "alternate_phrasings": [
+      "What is the Paris Agreement about?",
+      "How does the Paris Agreement work?",
+      "Why was the Paris Agreement created?"
+    ],
+    "answer": "The Paris Agreement is a legally binding international treaty adopted by 196 countries in December 2015, aiming to limit global warming to well below 2°C, preferably 1.5°C, compared to pre-industrial levels. Countries submit Nationally Determined Contributions (NDCs) — voluntary climate action plans reviewed every 5 years. India's NDC targets 45% reduction in emissions intensity by 2030 and 50% renewable electricity capacity.",
+    "source": "UNFCCC Paris Agreement; India NDC 2022 Update"
+  },
+  {
+    "id": 24,
+    "category": "Climate Policy & Global Action",
+    "main_question": "What is carbon trading / carbon credits?",
+    "alternate_phrasings": [
+      "What is carbon trading?",
+      "How do carbon credits work?",
+      "Why are carbon credits used?"
+    ],
+    "answer": "A carbon credit represents one tonne of CO₂ reduced or removed from the atmosphere. In carbon trading systems (like the EU Emissions Trading System), companies buy credits to offset their emissions or earn credits by reducing them below their allocated limit. India launched its Carbon Credit Trading Scheme (CCTS) in 2023 under the Energy Conservation Act. Critics argue offsets can delay direct emissions reductions.",
+    "source": "UNFCCC; MoEFCC India Carbon Credit Scheme 2023"
+  },
+  {
+    "id": 25,
+    "category": "Climate Policy & Global Action",
+    "main_question": "What can governments do to accelerate climate action?",
+    "alternate_phrasings": [
+      "How can governments fight climate change?",
+      "What policies reduce greenhouse gas emissions?",
+      "What should governments do to tackle climate change?"
+    ],
+    "answer": "Key policy levers include: carbon pricing (taxing emissions), phasing out fossil fuel subsidies (~$7 trillion globally in 2022 per IMF), mandating renewable energy standards, investing in public transport, building codes for energy efficiency, and financing adaptation in vulnerable nations. The IPCC finds that existing policies put us on track for ~3°C warming — meaning far stronger action is needed.",
+    "source": "IPCC AR6 WG3; IMF Fossil Fuel Subsidies 2023; IEA"
+  }
+]
