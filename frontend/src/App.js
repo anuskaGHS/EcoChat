@@ -2216,6 +2216,23 @@ export default function App() {
     localStorage.removeItem('ecochat_joined_challenges');
     localStorage.removeItem('ecochat_saved_resources');
     localStorage.removeItem('ecochat_habits');
+    
+    // Clear chat history and active session from storage
+    localStorage.removeItem('ecochat_history');
+    sessionStorage.removeItem('ecochat_session_active');
+    sessionStorage.removeItem('ecochat_active_session_id');
+
+    // Reset chat states to a clean Welcome session
+    const cleanSessionId = Date.now();
+    const cleanSession = {
+      id: cleanSessionId,
+      title: 'New Chat',
+      messages: [
+        { role: 'ai', text: "Hi, I'm your EcoChat assistant. Ask me about energy, waste, transport, or anything climate-related — or try one of the prompts below.", sources: [] }
+      ]
+    };
+    setChatSessions([cleanSession]);
+    setActiveSessionId(cleanSessionId);
   };
 
   async function syncWithBackend(updatedFields = {}) {
