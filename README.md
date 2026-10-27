@@ -1,4 +1,5 @@
 # 🌍 EcoChat: AI-Powered Climate Companion
+🔗 [https://ecochat-climate.netlify.app/](#)
 
 EcoChat is a premium, full-stack web application designed to empower individuals to track their carbon footprint, adopt sustainable habits, participate in eco-challenges, and chat with an AI assistant grounded in verified climate science. The project addresses key UN Sustainable Development Goals: **SDG 13 (Climate Action)**, **SDG 7 (Affordable and Clean Energy)**, **SDG 12 (Responsible Consumption & Production)**, and **SDG 11 (Sustainable Cities & Communities)**.
 
